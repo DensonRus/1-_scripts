@@ -1,0 +1,10 @@
+{
+    "ut_ds_RC":{
+    "base_path": "Srvr=ds-dev-app1; Ref='ut_ds_RC'",
+    "user": "БельмачДА",
+    "pwd": "Tele217091",
+    "storage_path": "C:\\1c-Repository\\ut-ds-deploy",
+    "storage_user": "UtTestUpDate",
+    "storage_pwd": "UtTestUpDate"
+    }
+}
