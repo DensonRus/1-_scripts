@@ -1,9 +1,0 @@
-{
-    "base_path": "Srvr=ds-dev-app1; Ref='ut_ds_RC'",
-    "users": [
-         {"login": "БурцеваНА","pass":""},
-         {"login": "СигельОС","pass":""}
-    ]
-        
-    
-}

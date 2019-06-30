@@ -9,11 +9,13 @@
         "C:\\1c-Repository\\uz-ds-develop",
         "D:\\1c-Repository\\bitfinace-ds-deploy",
         "D:\\1c-Repository\\hrm-corp-deploy",
-        "D:\\1c-Repository\\mfo-ds-deploy"
+        "D:\\1c-Repository\\mfo-ds-deploy",
+        "D:\\1c-Repository\\ut-ocm-develop",
+        "D:\\1c-Repository\\uz-ocm-develop"
     ],
     "array_new_storage":[
-        {"storage_donor":"C:\\1c-Repository\\hrm-corp-develop",
-            "storage_new":"D:\\1c-Repository\\hrm-corp-deploy",
+        {"storage_donor":"C:\\1c-Repository\\ut-ds-deploy",
+            "storage_new":"D:\\1c-Repository\\uz-ocm-deploy",
             "server":"ds-dev-app1",
             "basename": "hrmcorp_ds_RC"}
 
@@ -22,6 +24,6 @@
     "pass_user_1C":"Tele217091",
     "user_storage": "dbelmach",
     "pass_storage":"dbelmach",
-    "user_storage_admin":"�������������",
-    "pas_storage_admin":"admin"
+    "user_storage_admin":"dbelmach",
+    "pas_storage_admin":"dbelmach"
 }
