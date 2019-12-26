@@ -1,7 +1,7 @@
 {
-    "base_path": "Srvr=ds-dev-app1; Ref='ut_ds_RC'",
+    "base_path": "Srvr=ds-release-app; Ref='ut_ds_main_ds-1c-test'",
     "users": [
-         {"login": "БельмачДА","pass":""}
+         {"login": "","pass":""}
                 
     ]
         
